@@ -7,7 +7,9 @@
         }
     ],
     "autoload": {
-        "\\App": "classes"
+        "psr-4": {
+            "App\\": "classes"
+        }
     },
     "require": {}
 }
