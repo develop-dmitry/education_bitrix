@@ -1,0 +1,13 @@
+{
+    "name": "dmitry/education",
+    "authors": [
+        {
+            "name": "Dmitry Kozlov",
+            "email": "d.kozlov@intensa.ru"
+        }
+    ],
+    "autoload": {
+        "\\App": "classes"
+    },
+    "require": {}
+}
